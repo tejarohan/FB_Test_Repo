@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="First Test Suite" duration-ms="63167" started-at="2016-12-09T20:04:18Z" finished-at="2016-12-09T20:05:21Z">
+  <suite name="First Test Suite" duration-ms="65606" started-at="2016-12-09T23:25:27Z" finished-at="2016-12-09T23:26:32Z">
     <groups>
     </groups>
-    <test name="FaceBookTest" duration-ms="63167" started-at="2016-12-09T20:04:18Z" finished-at="2016-12-09T20:05:21Z">
+    <test name="FaceBookTest" duration-ms="65606" started-at="2016-12-09T23:25:27Z" finished-at="2016-12-09T23:26:32Z">
       <class name="FirstPack.Registration">
-        <test-method status="PASS" signature="f2()[pri:0, instance:FirstPack.Registration@4590c9c3]" name="f2" duration-ms="26741" started-at="2016-12-09T14:04:18Z" finished-at="2016-12-09T14:04:45Z">
+        <test-method status="PASS" signature="f2()[pri:0, instance:FirstPack.Registration@4590c9c3]" name="f2" duration-ms="25107" started-at="2016-12-09T17:25:27Z" finished-at="2016-12-09T17:25:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f2 -->
       </class> <!-- FirstPack.Registration -->
       <class name="FirstPack.SendingMessages">
-        <test-method status="PASS" signature="f3()[pri:0, instance:FirstPack.SendingMessages@2669b199]" name="f3" duration-ms="22969" started-at="2016-12-09T14:04:58Z" finished-at="2016-12-09T14:05:21Z">
+        <test-method status="PASS" signature="f3()[pri:0, instance:FirstPack.SendingMessages@2669b199]" name="f3" duration-ms="23375" started-at="2016-12-09T17:26:09Z" finished-at="2016-12-09T17:26:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f3 -->
       </class> <!-- FirstPack.SendingMessages -->
       <class name="FirstPack.LoginFB">
-        <test-method status="PASS" signature="f1()[pri:0, instance:FirstPack.LoginFB@6574b225]" name="f1" duration-ms="13444" started-at="2016-12-09T14:04:45Z" finished-at="2016-12-09T14:04:58Z">
+        <test-method status="PASS" signature="f1()[pri:0, instance:FirstPack.LoginFB@6574b225]" name="f1" duration-ms="17073" started-at="2016-12-09T17:25:52Z" finished-at="2016-12-09T17:26:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f1 -->
